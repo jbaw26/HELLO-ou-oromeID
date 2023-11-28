@@ -1,6 +1,6 @@
 
 
-![c](https://github.com/monGithubPerso/HELLO-ou-oromeID/assets/54853371/187e03cb-4485-48f3-a19e-98e8ec1bb349)
+
 
 <img src="https://github.com/monGithubPerso/HELLO-ou-oromeID/assets/54853371/187e03cb-4485-48f3-a19e-98e8ec1bb349" width="1000" height="600"/>
 
