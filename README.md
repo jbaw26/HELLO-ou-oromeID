@@ -1,5 +1,7 @@
 
+https://communicationnonverbale.com/
 
+https://www.facebook.com/profile.php?id=61555025200823
 
 <img src="https://github.com/monGithubPerso/HELLO-ou-oromeID/assets/54853371/4f10f2e0-1b07-44a0-b700-46a24379bc0d" width="1000" height="600"/>
 
