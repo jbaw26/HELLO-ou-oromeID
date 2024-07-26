@@ -1,4 +1,41 @@
 
+Bonjour,  
+
+communicationnonverbale.com cherche ses tout premiers volontaires pour tester la nouvelle application de communication non verbale en ligne.   
+
+Si la communication non verbale vous plaît et que vous êtes intéressé, veuillez nous contacter afin de choisir un créneau de visite (le site n'est disponible qu'à certaines plages horaires).  
+
+Cordialement.  
+
+Jean-Marc SEO de Communicationnonverbale.com.
+
+Merci pour l'invitation
+
+jbaw44@gmail.com
+
+Site web pour présenter ses fonctionnalités par des supports écrits et visuels. Ce site web a l'objectif de traiter et de vulgariser la communication non verbale scientifique.
+
+1) Tracking du corps entier dans une vidéo par des modèles de machine learning à 85% de fiabilité.
+- Diversité des modèles: bouche, yeux, face, buste, jambe, bras etc...), 
+- plus de 1000 labels.
+- les modèles sont testés sur 50 vidéos Youtube, condition de validation: 90% d'accuracy sur 90% des 50 vidéos,
+- vidéos variées et sélectionnées pour tester le modèle.
+2) data visualisation en direct, graphes qui s'ajustent selon les détections de la vidéo,
+ - possibilité de voir les statistiques des détections (application disponible),
+ - converge vers une base comportementale (application disponible),
+ - règles d'association (application disponible)
+3) replay des détections de nos modèles en live, l'utilisateur peut vérifier les détections et revoir les passages dans la vidéo de toutes les détections.
+- vérification des détections,
+- fiabilité de nos modèles.
+4) résumé de communication non verbale appuyée par des citations scientifiques pour et contre.
+- formation en communication non verbale;
+- vulgarisation de la communication non verbale;
+- l'utilisateur peut visualiser, pendant l'analyse de la vidéo, un résumé de communication non verbale scientifique;
+- l'utilisateur a des preuves scientifiques de ce qu'il visualise.
+
+
+
+
 https://communicationnonverbale.com/
 
 https://www.facebook.com/profile.php?id=61555025200823
